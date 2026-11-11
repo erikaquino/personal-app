@@ -1,8 +1,8 @@
 # Política de privacidad
 
-Esta aplicación es de uso personal. Respalda archivos propios del mismo usuario que la creó, en su Google Drive, mediante la API de Google Drive y rclone.
+Esta aplicación es de uso estrictamente personal de su dueño.
 
 - No recopila, almacena ni comparte datos de terceros.
-- No tiene usuarios además del dueño.
-- Solo accede a los archivos de Google Drive del propio dueño, para subirlos como respaldo.
-- No usa los datos con fines publicitarios ni los vende.
+- No tiene más usuarios que el dueño.
+- Accede únicamente a los datos de la propia cuenta del dueño, y solo para realizar las operaciones que él mismo solicita.
+- Los datos no se usan con fines publicitarios ni se venden.

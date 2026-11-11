@@ -1,3 +1,3 @@
-# rclone-backup-google-drive
+# App personal
 
-Aplicación personal de OAuth para respaldar archivos propios en Google Drive mediante rclone. Uso privado, un solo usuario (el dueño).
+Herramienta de uso personal y privado de su dueño. No tiene usuarios externos ni accede a datos de terceros.
